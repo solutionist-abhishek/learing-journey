@@ -2,31 +2,21 @@
 
 Welcome to my learning journey!
 
-This repository documents my progress as I learn software engineering through hands-on practice, projects, and continuous improvement.
+This repository documents my progress as I learn Software Engineering through projects, notes, and hands-on practice.
 
-## 🎯 Current Focus
+## Current Focus
 
 - Linux
 - Python
 - Data Structures & Algorithms
 - Cloud Computing
 - Backend Development
-- DevOps
 
-## 📂 Repository Structure
+## Repository Structure
 
-- 📅 Weekly learning logs
-- 🐧 Linux notes
-- 🐍 Python notes
-- 💻 DSA concepts
-- ☁️ Cloud computing
-- ⚙️ DevOps
-- 🤖 AI & Machine Learning
-- 📚 Resources
-- 🎯 Goals
+- Journal
+- Notes
+- Resources
+- Goals
 
-## 🚀 Philosophy
-
-I believe the best way to learn is by building, documenting, and sharing knowledge consistently.
-
-This repository serves as a record of my progress and a reference for future learning.
+> Learning by building. Growing by documenting.
